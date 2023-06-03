@@ -1,2 +1,2 @@
 # Venezuela_GeoJSON
-Archivos de tipo espacial contentivos de información cultural de Venezuela
+Archivos de tipo espacial contentivos de información cultural de Venezuela. Está basado directamente en la data proporcionada por el del Ministerio del Ambiente del Ambiente a través del GeodataBase del sistema de información geográfica para la planeación y el ordenamiento territorial nacional (SIGOT-MINAMB) , sólo que este Instituto lo suministra en formato shapefile y sólo se puede acceder de manera local o a traves de un dispositivo de almacenamiento portatil, es por eso que lo pasé a formato GeoJSON con el fin de ser compartido a mas usuarios por medio de la web.
